@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spinmama App: bezpečné stažení, funkce a platby v CZK on spinmama-bonus</title>
-    <link>http://localhost:1313/app/</link>
+    <link>https://spinmama-bonus.co.cz/app/</link>
     <description>Recent content in Spinmama App: bezpečné stažení, funkce a platby v CZK on spinmama-bonus</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spinmama-bonus.co.cz/app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
