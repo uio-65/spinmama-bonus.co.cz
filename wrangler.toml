@@ -1,0 +1,11 @@
+name = "spinmama-bonus-co-cz"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmama-bonus.co.cz"
+HMAC_KEY = "32f1c770cf05bae821fda1bbd372e11106cd83a53119b3b8925dea0f16e9159f"
+COOKIE_NAME = "jj8"
+PLAY_PATH = "discover"
+BUTTON_ID = "p2f959c29d895d02c7d8f84e38fa77414"
+GATE_SALT = "fd7ad911636a4e1a"
